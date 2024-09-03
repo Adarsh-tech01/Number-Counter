@@ -1,0 +1,26 @@
+#count_number{
+	display: block;
+	font-size: 10em;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#btnContainer{
+	display: block;
+	text-align: center;
+	padding: 3px;
+	font-size: 1.5em;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+	color: aliceblue;
+	background-color: rgb(79, 79, 226);
+	cursor: pointer;
+	border-radius: 3px;
+}
+
+.btn:hover{
+	background-color: rgb(19, 19, 92);
+}
